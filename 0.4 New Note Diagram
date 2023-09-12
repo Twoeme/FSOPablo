@@ -1,8 +1,9 @@
 
 ```mermaid
-  graph Trying;
-      Carlos-->Pablo;
-      Carlos-->Isabel;
-      Adriana-->Pablo;
-      Adriana-->Isabel;
+  graph Life Cicle;
+    A[Birth] --> B[Childhood]
+    B --> C[Adolescence]
+    C --> D[Adulthood]
+    D --> E[Elderly]
+    E --> F[Death]
 ```
